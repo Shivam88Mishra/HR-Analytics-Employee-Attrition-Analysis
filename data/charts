@@ -1,9 +1,1 @@
-charts/
-├── department_distribution.png
-├── jobrole_distribution.png
-├── gender_distribution.png
-├── attrition_by_department.png
-├── attrition_by_jobrole.png
-├── worklife_balance_attrition.png
-├── overtime_attrition.png
-└── income_quartile_attrition.png
+
